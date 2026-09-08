@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6823438,
       "digest": "sha256:8614f39bb149b2d88827b9de2623ef7c1ac9301d42c431eab329a68fb8c3315a",
-      "download_count": 103,
+      "download_count": 104,
       "created_at": "2026-07-08T04:57:36Z",
       "updated_at": "2026-07-08T04:57:36Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_linux_amd64.deb"
