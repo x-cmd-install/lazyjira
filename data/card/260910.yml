@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.19.2"
   latestRelease: "v2.19.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:24:05Z
+  collectedAt: 2026-09-10T23:19:22Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-07-29
@@ -86,7 +86,7 @@ total:
   commit: 174
 ---
 path: /home/runner/.x-repo/github.com/textfuel/lazyjira
-collectedAt: 2026-09-10T20:24:09Z
+collectedAt: 2026-09-10T23:19:27Z
 loc:
   Go:
     code: 41815
