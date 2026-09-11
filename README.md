@@ -37,22 +37,22 @@ Total: **42,978** lines of code across **213** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 363 · **Forks**: 22 · **Open issues**: 53 · **Contributors**: 8
+- **Stars**: 365 · **Forks**: 22 · **Open issues**: 53 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 58 · **Open PRs**: 12 · **Closed issues**: 30 · **Open issues**: 23 · **Commits**: 174
+- **Releases**: 47 · **Merged PRs**: 58 · **Open PRs**: 13 · **Closed issues**: 30 · **Open issues**: 23 · **Commits**: 174
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-13 | 0 | 1 | 8 | 0 | 8 | 2 |
-| 90d | 2026-06-13 | 5 | 9 | 11 | 1 | 14 | 21 |
-| last180d | 2026-03-15 | 47 | 58 | 12 | 30 | 23 | 172 |
-| 360d | 2025-09-16 | 47 | 58 | 12 | 30 | 23 | 172 |
-| last720d | 2024-09-21 | 47 | 58 | 12 | 30 | 23 | 174 |
+| 30d | 2026-08-12 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 1 | 9 | 0 | 8 | 2 |
+| 90d | 2026-06-13 | 5 | 9 | 12 | 1 | 14 | 21 |
+| last180d | 2026-03-15 | 47 | 58 | 13 | 30 | 23 | 172 |
+| 360d | 2025-09-16 | 47 | 58 | 13 | 30 | 23 | 172 |
+| last720d | 2024-09-21 | 47 | 58 | 13 | 30 | 23 | 174 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyjira lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:22:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:27:31Z._
