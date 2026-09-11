@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6823438,
       "digest": "sha256:8614f39bb149b2d88827b9de2623ef7c1ac9301d42c431eab329a68fb8c3315a",
-      "download_count": 108,
+      "download_count": 109,
       "created_at": "2026-07-08T04:57:36Z",
       "updated_at": "2026-07-08T04:57:36Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_linux_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6818012,
       "digest": "sha256:a1bad84b0b1af5c667a2f9d60bf803f76c00d148da8a34083dabcda29200f962",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-07-08T04:57:34Z",
       "updated_at": "2026-07-08T04:57:35Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_linux_amd64.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6559136,
       "digest": "sha256:9833a9893c734f021efe076dfd801aa9a192c6454b9c818805f14abad7c7caeb",
-      "download_count": 162,
+      "download_count": 164,
       "created_at": "2026-07-08T04:57:33Z",
       "updated_at": "2026-07-08T04:57:34Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6837453,
       "digest": "sha256:503b4e26f469796da11fadbef979a0b2ede0d7bad63c3bc34ed6de7b36b7214c",
-      "download_count": 204,
+      "download_count": 206,
       "created_at": "2026-07-08T04:57:33Z",
       "updated_at": "2026-07-08T04:57:34Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_linux_amd64.tar.gz"

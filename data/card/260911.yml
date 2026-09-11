@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.19.2"
   latestRelease: "v2.19.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:22:12Z
+  collectedAt: 2026-09-11T18:27:16Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-07-29
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-08
   lastPrerelease: 
 popularity:
-  star: 363
+  star: 365
   watcher: 3
   fork: 22
   release: 47
   contributor: 8
-  pullRequest: 74
+  pullRequest: 75
   issue: 53
 language:
   Go: 1368951
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 0
-    openPR: 2
+    openPR: 3
     closedIssue: 0
     openIssue: 1
     commit: 0
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 1
-    openPR: 8
+    openPR: 9
     closedIssue: 0
     openIssue: 8
     commit: 2
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-13
     release: 5
     mergedPR: 9
-    openPR: 11
+    openPR: 12
     closedIssue: 1
     openIssue: 14
     commit: 21
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-15
     release: 47
     mergedPR: 58
-    openPR: 12
+    openPR: 13
     closedIssue: 30
     openIssue: 23
     commit: 172
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-16
     release: 47
     mergedPR: 58
-    openPR: 12
+    openPR: 13
     closedIssue: 30
     openIssue: 23
     commit: 172
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-21
     release: 47
     mergedPR: 58
-    openPR: 12
+    openPR: 13
     closedIssue: 30
     openIssue: 23
     commit: 174
 total:
   release: 47
   mergedPR: 58
-  openPR: 12
+  openPR: 13
   closedIssue: 30
   openIssue: 23
   commit: 174
 ---
 path: /home/runner/.x-repo/github.com/textfuel/lazyjira
-collectedAt: 2026-09-11T06:22:16Z
+collectedAt: 2026-09-11T18:27:24Z
 loc:
   Go:
     code: 41815
