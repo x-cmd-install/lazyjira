@@ -4,7 +4,7 @@
 
 Lazygit but for Jira
 
-[![x-cmd/install — lazyjira Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazyjira.svg?lang=zh)](https://x-cmd.com/install/lazyjira)
+[![x-cmd/install — lazyjira Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lazyjira.svg?lang=zh)](https://x-cmd.com/install/lazyjira)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install lazyjira
 
 ## 流行度
 
-- **Star**: 369 · **Fork**: 22 · **开放 issue**: 53 · **贡献者**: 8
+- **Star**: 370 · **Fork**: 22 · **开放 issue**: 53 · **贡献者**: 8
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install lazyjira
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 8 | 0 | 8 | 2 |
-| 90d | 2026-06-24 | 2 | 3 | 11 | 0 | 12 | 9 |
-| last180d | 2026-03-26 | 36 | 51 | 12 | 30 | 23 | 109 |
-| 360d | 2025-09-27 | 47 | 58 | 12 | 30 | 23 | 172 |
-| last720d | 2024-10-02 | 47 | 58 | 12 | 30 | 23 | 174 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 8 | 0 | 8 | 2 |
+| 90d | 2026-06-25 | 2 | 3 | 11 | 0 | 12 | 9 |
+| last180d | 2026-03-27 | 35 | 50 | 12 | 30 | 23 | 109 |
+| 360d | 2025-09-28 | 47 | 58 | 12 | 30 | 23 | 172 |
+| last720d | 2024-10-03 | 47 | 58 | 12 | 30 | 23 | 174 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ lazyjira 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:37:42Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:49:48Z._
