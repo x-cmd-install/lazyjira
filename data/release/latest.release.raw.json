@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1152,
       "digest": "sha256:489501c378f0067955b3db57540c7425a18a3646011116cc054e71e91a21f910",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-07-08T04:57:36Z",
       "updated_at": "2026-07-08T04:57:37Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6823438,
       "digest": "sha256:8614f39bb149b2d88827b9de2623ef7c1ac9301d42c431eab329a68fb8c3315a",
-      "download_count": 135,
+      "download_count": 137,
       "created_at": "2026-07-08T04:57:36Z",
       "updated_at": "2026-07-08T04:57:36Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_linux_amd64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6818012,
       "digest": "sha256:a1bad84b0b1af5c667a2f9d60bf803f76c00d148da8a34083dabcda29200f962",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-07-08T04:57:34Z",
       "updated_at": "2026-07-08T04:57:35Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_linux_amd64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6264926,
       "digest": "sha256:425d3b77f519d2238de96d08ed38c866cc51c31fb453cdc5cc94700916ad7752",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-07-08T04:57:36Z",
       "updated_at": "2026-07-08T04:57:36Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_2.19.2_linux_arm64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6837453,
       "digest": "sha256:503b4e26f469796da11fadbef979a0b2ede0d7bad63c3bc34ed6de7b36b7214c",
-      "download_count": 246,
+      "download_count": 248,
       "created_at": "2026-07-08T04:57:33Z",
       "updated_at": "2026-07-08T04:57:34Z",
       "browser_download_url": "https://github.com/textfuel/lazyjira/releases/download/v2.19.2/lazyjira_linux_amd64.tar.gz"
