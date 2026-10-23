@@ -47,12 +47,12 @@ Total: **42,978** lines of code across **213** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 11 | 0 | 9 | 2 |
-| last180d | 2026-04-25 | 14 | 30 | 15 | 7 | 20 | 67 |
-| 360d | 2025-10-27 | 47 | 59 | 15 | 30 | 24 | 173 |
-| last720d | 2024-11-01 | 47 | 59 | 15 | 30 | 24 | 174 |
+| 30d | 2026-09-23 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 11 | 0 | 9 | 2 |
+| last180d | 2026-04-26 | 14 | 29 | 15 | 7 | 20 | 67 |
+| 360d | 2025-10-28 | 47 | 59 | 15 | 30 | 24 | 173 |
+| last720d | 2024-11-02 | 47 | 59 | 15 | 30 | 24 | 174 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for lazyjira lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:01:22Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:04:30Z._
